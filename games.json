@@ -1,10 +1,16 @@
 [
   {
     "placeId": 105380127483307,
-    "universeId": 9316632318
+    "universeId": 9316632318,
+    "agerating": 16,
+    "sponsoredtier": "None",
+    "dateadded": "9.6.26",
   },
   {
     "placeId": 124172165907156,
-    "universeId": 9797807322
+    "universeId": 9797807322,
+    "agerating": 16,
+    "sponsoredtier": "None",
+    "dateadded": "9.6.26",
   }
 ]
