@@ -1,6 +1,6 @@
 {
   "type": "append",
-  "parent": "Workspace",
+  "parent": "Game.Workspace",
   "name": "Script",
   "source": "\n\nprint(\"New GameFinder functionality\")\n"
 }
