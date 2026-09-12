@@ -1,7 +1,7 @@
 [
   {
     "total-visits-across-all-games": 100,
-    "games": 3,
-    "outbound": 9,
+    "total-games": 3,
+    "outbound-teleports": 9,
   }
 ]
