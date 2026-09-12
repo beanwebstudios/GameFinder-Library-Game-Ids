@@ -1,13 +1,14 @@
 {
-  "type": "append",
-  "parent": "Game.Workspace",
-  "name": "Script",
-  "source": "\n\nprint(\"New GameFinder functionality\")\n"
+  "version": "1.01",
+  "operations": [
+     {
+    "type": "replaceSource",
+    "parent": "Workspace",
+    "name": "Script",
+    "source": "print(\"New version\")"
+    }
+  ]
 }
-
-
-
-
 
 
 
