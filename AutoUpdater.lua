@@ -1,10 +1,18 @@
-{
-	Type = "Delete",
+return {
+	Type = "UpdateScript",
 	Parent = "Workspace",
-	Name = "Script"
+	Name = "Script",
+
+	Mode = "Replace",
+
+	Source = [[
+
+-- Entire new version of BillboardGameServer
+
+print("Updated!")
+
+]]
 }
-
-
 
 
 
