@@ -3,8 +3,8 @@
   "operations": [
      {
     "type": "replaceSource",
-    "parent": "Workspace",
-    "name": "Script",
+    "parent": "workspace",
+    "name": "script",
     "source": "print(\"New version\")"
     }
   ]
