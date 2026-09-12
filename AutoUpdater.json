@@ -1,15 +1,14 @@
 {
+  "version": "1.01",
   "operations": [
-     {
-    "type": "replaceSource",
-    "parent": "workspace",
-    "name": "script",
-    "source": "print(\"New version\")"
-    "version": "1.01",
+    {
+      "type": "replaceSource",
+      "parent": "Workspace",
+      "name": "script",
+      "source": "print(\"New version\")"
     }
   ]
 }
-
 
 
 
