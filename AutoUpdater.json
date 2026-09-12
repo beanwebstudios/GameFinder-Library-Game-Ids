@@ -1,0 +1,14 @@
+return {
+  "type": "append",
+  "parent": "Workspace",
+  "name": "Script",
+  "source": "\n\nprint(\"New GameFinder functionality\")\n"
+}
+
+
+
+
+
+
+
+
