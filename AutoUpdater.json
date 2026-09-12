@@ -3,12 +3,11 @@
   "operations": [
     {
       "type": "replaceSource",
-      "parent": "Workspace",
+      "parent": "workspace",
       "name": "Script",
       "source": "print(\"New version\")"
     }
   ]
 }
-
 
 
