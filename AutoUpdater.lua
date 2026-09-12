@@ -31,6 +31,8 @@ local ChatNotif = StarterGUI:WaitForChild("ChatNotif")
 local LeaveNotif = StarterGUI:WaitForChild("LeaveNotif")
 local OnDeathNotif = StarterGUI:WaitForChild("OnDeathNotif")
 
+print("[Version 1.01 of GameFinder has been implemented]")
+
 
 
 
