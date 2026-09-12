@@ -1,4 +1,4 @@
-return {
+{
   "type": "append",
   "parent": "Workspace",
   "name": "Script",
