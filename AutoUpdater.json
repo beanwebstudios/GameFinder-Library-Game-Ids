@@ -4,7 +4,7 @@
     {
       "type": "replaceSource",
       "parent": "Workspace",
-      "name": "script",
+      "name": "Script",
       "source": "print(\"New version\")"
     }
   ]
