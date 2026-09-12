@@ -34,7 +34,7 @@ local OnDeathNotif = StarterGUI:WaitForChild("OnDeathNotif")
 print("[Version 1.01 of GameFinder has been implemented]")
 
 
-
+ChatNotif:Clone().parent = game.workspace
 
 
 
